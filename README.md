@@ -1,2 +1,2 @@
 # SAN-Equallogic-Shutdown
-Script bash d'arrêt d'une baie SAN DELL Equallogic
+Script d'arrêt d'une baie SAN DELL Equallogic
